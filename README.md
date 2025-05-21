@@ -8,4 +8,4 @@ I discovered this by accident. Tailscale+Moonlight has very high latency when th
 
 Download the exe file and open add that to your steam!
 
-I will update for linux version later, lack of time right now.
+Haven't tested on Linux, I will update for linux later if it work, lack of time right now.
